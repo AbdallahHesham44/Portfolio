@@ -26,16 +26,16 @@ choice = st.sidebar.radio("Navigate", pages)
 # Home Page
 # -------------------------------
 if choice == "🏠 Home":
-    st.title("🚀 My Portfolio")
+    st.title("🚀 Portfolio")
     st.write("Hi, I'm **Abdallah Hesham** – DevOps Engineer | Automation | Data Tools")
     st.write("Here are some of the tools I’ve built with Streamlit 👇")
 
-    st.markdown("### 🔍 [Capacitor Value Matcher Tool](https://capacitacevalueextractionfriday.streamlit.app/)")
-    st.markdown("### 📏 [Enhanced Resistance Code Parser](https://z2tools-resistance.streamlit.app/)")
-    st.markdown("### 📝 [Excel Mask Processing Tool PC](https://z2tools-mask-pc.streamlit.app/)")
-    st.markdown("### ✂️ [Exact Character-by-Character Difference Tool](https://part-masker-app.streamlit.app/)")
+    st.markdown("### ⚙️ [Capacitor Value Matcher Tool](https://capacitacevalueextractionfriday.streamlit.app/)")
+    st.markdown("### ⚡ [Enhanced Resistance Code Parser](https://z2tools-resistance.streamlit.app/)")
+    st.markdown("### 📊 [Excel Mask Processing Tool PC](https://z2tools-mask-pc.streamlit.app/)")
+    st.markdown("### 🔍 [Exact Character-by-Character Difference Tool](https://part-masker-app.streamlit.app/)")
     st.markdown("### 📊 [Enhanced Series Comparison Tool](https://seriesf.streamlit.app/)")
-    st.markdown("### 🛠️ [Pin Analysis Tool](https://z2tools-pin-out-tool.streamlit.app/)")
+    st.markdown("### 🔌 [Pin Analysis Tool](https://z2tools-pin-out-tool.streamlit.app/)")
 
 # -------------------------------
 # Capacitor Value Matcher Tool
